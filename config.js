@@ -5,7 +5,7 @@ const CONFIG = {
      title: 'các cậu có muốn làm các nàng công chúa của bọn tớ trong ngày hôm nay không   😘  😘  😘 ',
     desc: 'thật lòng nhó  ',
     btnYes: 'có',
-    btnNo: 'chưa',
+    btnNo: 'không',
     question:'chúng tớ đã bao giờ làm các cậu buồn chưa :(((( ',
     btnReply: 'gửi nè 🤭🤭',
     reply: 'không nhaaaa !các bạn nam 11a5 tuyệt vời lắm 😘 ',
