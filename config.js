@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'chúng tớ biết mà, haizzz tiếc thật 😞 nếu gặp cậu sớm hơn thì bài văn tả thiên thần của tớ sẽ không phải giấy trắng 🤭',
     messDesc: 'Mùng 8/3 chúc cậu luôn vui vẻ, mạnh khỏe, chúng tớ sẽ mãi bên cậu 😍😍😍  chuẩn bị nhìn thấy thiên thần lớp 11a5 nè',
     btnAccept: 'tớ cảm động rớt nước mắt đó, cảm ơn nhaaa <33333',
-    messLink: 'https://padlet.com/nguyentlovie126/55l5ehha2qbqq860'
+    messLink: 'padlet.com/nguyentlovie126/55l5ehha2qbqq860'
 }
